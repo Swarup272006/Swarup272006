@@ -1,254 +1,286 @@
-<!-- ===================================================== -->
-<!--                  HEADER WAVE                           -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                     HERO SECTION                           -->
+<!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6DD5FA,50:2980B9,100:2C3E50&text=Swarup%20Katkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20%7C%20Building%20Real-World%20Projects&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,45:1D4ED8,100:38BDF8&text=Swarup%20Katkar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Building%20Real-World%20Solutions&descAlignY=60&descSize=18"/>
 
 <h1 align="center">
-Hi 👋 I'm Swarup Katkar
+  🤖 AI Engineer in Progress
 </h1>
 
 <h3 align="center">
-🤖 AI & Machine Learning Enthusiast • Hackathon Builder • Lifelong Learner
+  Building • Learning • Experimenting • Improving
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Building+Real-World+AI+Projects;Learning+Full-Stack+Development;Machine+Learning+Explorer;Always+Learning+Something+New"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Real-World+AI+Applications;Learning+Full-Stack+Development;Strengthening+DSA+%26+Problem+Solving;Exploring+Generative+AI;Always+Learning+Something+New!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
 
-<a href="https://github.com/Swarup272006">
-<img src="https://komarev.com/ghpvc/?username=Swarup272006&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-</a>
+  <a href="https://github.com/Swarup272006">
+    <img src="https://komarev.com/ghpvc/?username=Swarup272006&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+  </a>
 
-<img src="https://img.shields.io/github/followers/Swarup272006?logo=github&style=for-the-badge"/>
+  <a href="https://github.com/Swarup272006?tab=followers">
+    <img src="https://img.shields.io/github/followers/Swarup272006?label=FOLLOWERS&style=for-the-badge&logo=github&color=111827" alt="Followers"/>
+  </a>
 
-<img src="https://img.shields.io/github/stars/Swarup272006?affiliations=OWNER&style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Learning-success?style=for-the-badge"/>
+  <a href="https://github.com/Swarup272006">
+    <img src="https://img.shields.io/badge/AI%2FML-BUILDER-2563EB?style=for-the-badge&logo=robot&logoColor=white" alt="AI ML Builder"/>
+  </a>
 
 </p>
 
 <br>
 
-<img align="right" alt="Coding" width="360" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1jYmM1N2J4c2FobWlqNDB4cnQ5YWU2aXVqNnM2M2MwdWRwNW42aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif"/>
+<!-- ========================================================= -->
+<!--                     INTRODUCTION                           -->
+<!-- ========================================================= -->
 
-## 👨‍💻 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:1E3A8A&height=105&section=header&text=👨‍💻%20About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 
-🎓 Computer Engineering Student
+<img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1jYmM1N2J4c2FobWlqNDB4cnQ5YWU2aXVqNnM2M2MwdWRwNW42aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif"/>
+
+🎓 **Computer Engineering Student**
 
 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
-💡 I enjoy solving real-world problems through AI-powered applications.
+💡 I enjoy turning ideas into **working AI-powered applications**.
 
-🏆 Active participant in Hackathons and Technical Competitions.
+🚀 I learn best by **building, breaking, debugging, and improving real projects**.
 
-🌱 Currently Exploring
+🏆 Exploring hackathons, technical competitions, and product development.
+
+🌱 Currently exploring:
 
 - Machine Learning
 - Deep Learning
+- Generative AI
 - Data Structures & Algorithms
 - Full-Stack Development
 
-🎯 **Goal**
+🎯 **Long-Term Goal**
 
-To become an AI Engineer who builds intelligent products that solve real-world problems.
+> Become an AI Engineer who builds intelligent products that solve meaningful real-world problems.
+
+<br clear="right"/>
+
+---
+
+<!-- ========================================================= -->
+<!--                     CURRENT FOCUS                          -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:38BDF8&height=105&section=header&text=🎯%20Current%20Focus&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
+
+<table align="center">
+
+<tr>
+<td align="center" width="200">
+
+### 🤖
+
+**AI / ML**
+
+Building practical machine learning applications
+
+</td>
+
+<td align="center" width="200">
+
+### 💻
+
+**DSA**
+
+Improving problem-solving & interview readiness
+
+</td>
+
+<td align="center" width="200">
+
+### 🌐
+
+**Full-Stack**
+
+Learning modern web application development
+
+</td>
+
+<td align="center" width="200">
+
+### 🚀
+
+**Projects**
+
+Turning ideas into deployable products
+
+</td>
+</tr>
+
+</table>
 
 <br>
 
-## 🚀 Current Focus
+---
 
-- 🤖 AI & Machine Learning Projects
-- 💻 Strengthening DSA Skills
-- 🌐 Learning Full-Stack Development
-- 🚀 Participating in Hackathons
-- 📚 Exploring Generative AI
+<!-- ========================================================= -->
+<!--                     TECH STACK                             -->
+<!-- ========================================================= -->
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:1E3A8A&height=105&section=header&text=🛠️%20Tech%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 
-## 💬 Ask Me About
-
-🐍 Python
-
-🤖 Machine Learning
-
-⚡ Flask & FastAPI
-
-🌐 React (Learning)
-
-🔗 REST APIs
-
-📂 Git & GitHub
-
-🏆 Hackathons
-
-<br>
-
-## ⚡ Fun Fact
-
-> **"I believe the fastest way to learn is by building real-world projects."**
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:2980B9,100:6DD5FA&height=120&section=footer"/>
-<!-- ===================================================== -->
-<!--                  TECH STACK                            -->
-<!-- ===================================================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6DD5FA,100:2980B9&height=2"/>
-
-# 🛠️ Tech Stack
+### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,css" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=python" />
+
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
+
+  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+</p>
+
+### 🌐 Frontend
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite" />
+
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+
+</p>
+
+### 🧰 Tools
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
 </p>
 
 ---
 
-# 🤖 Artificial Intelligence & Machine Learning
+<!-- ========================================================= -->
+<!--                  CURRENTLY EXPLORING                       -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:38BDF8&height=105&section=header&text=🌱%20Currently%20Exploring&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/Deep%20Learning-Exploring-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full--Stack%20Development-Learning-0891B2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-Practicing-F59E0B?style=for-the-badge"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🌐 Web Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi" />
+Learning new technologies by applying them to real projects rather than simply collecting certificates.
 
 </p>
 
 ---
 
-# 🗄️ Databases
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                         -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:1E3A8A&height=115&section=header&text=🚀%20Featured%20Projects&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-
-</p>
-
----
-
-# ⚙️ Tools & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,docker" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning-Learning-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-Exploring-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DSA-Daily%20Practice-orange?style=for-the-badge"/>
-
-</p>
-
----
-
-# 💡 Areas of Interest
-
-<p align="center">
-
-🤖 Artificial Intelligence • 📊 Machine Learning • 🧠 Deep Learning • 🌐 Full-Stack Development • 🚀 Hackathons • 📈 Data Science
-
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2980B9,100:6DD5FA&height=2"/>
-
-<!-- ===================================================== -->
-<!--              GITHUB ANALYTICS                         -->
-<!-- ===================================================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=📊%20GitHub%20Analytics&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
-
-<p align="center">
-<i>Tracking my coding journey, consistency, and growth.</i>
+  <i>Projects where I learn, experiment, struggle, debug, and build.</i>
 </p>
 
 <br>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Swarup272006&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup272006&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Swarup272006&theme=transparent&hide_border=true"/>
-</p>
-
-<br>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swarup272006&theme=github-compact&hide_border=true"/>
-</p>
-
-<br>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Swarup272006&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"/>
-</p>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=header&text=🚀%20Featured%20Projects&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 <table>
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🌾 AgriChain AI
+<h3 align="center">🤖 AI Attendance System</h3>
 
-AI-powered smart agriculture ecosystem.
+<p align="center">
+
+Multimodal AI attendance system combining **face and voice recognition** with dedicated student and teacher portals and Supabase database integration.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%2FML-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Voice%20Recognition-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/Swarup272006/ai-attendance-project">
+<img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🎓 SkillBridge AI
+<h3 align="center">🎓 SkillBridge AI</h3>
 
-AI-powered employability platform.
+<p align="center">
+
+AI-powered employability platform designed around **skill assessment, project building, mock interviews, learning guidance, and opportunity discovery**.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI%20Product-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hackathon-FF6B35?style=flat-square"/>
+
+</p>
 
 </td>
 
@@ -256,19 +288,213 @@ AI-powered employability platform.
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🔐 CyberShield
+<h3 align="center">🔐 CyberShield</h3>
 
-AI Password Strength Analyzer.
+<p align="center">
+
+AI-assisted password security platform featuring **password strength analysis, security recommendations, threat detection, logging, and an administrative dashboard**.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-DC2626?style=flat-square"/>
+
+</p>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 💳 CreditGuard
+<h3 align="center">🧠 AI-NST</h3>
 
-Loan Default Prediction using Machine Learning.
+<p align="center">
+
+An AI/ML portfolio project focused on applying neural style transfer concepts to create artistic transformations from images.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-0891B2?style=flat-square"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💳 Loan Default Prediction</h3>
+
+<p align="center">
+
+Machine learning system for **loan default prediction and alternate credit scoring**, using applicant financial and credit-related features.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎥 Human Action Detection</h3>
+
+<p align="center">
+
+Computer vision project focused on detecting and classifying human actions from visual data.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Computer%20Vision-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-2563EB?style=flat-square"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                    MORE PROJECTS                           -->
+<!-- ========================================================= -->
+
+<h3 align="center">📚 Other Projects</h3>
+
+<p align="center">
+
+📈 Bike Sharing Demand Prediction &nbsp; • &nbsp;
+📦 Number of Orders Prediction &nbsp; • &nbsp;
+💻 DSA Practice &nbsp; • &nbsp;
+🧪 Machine Learning Experiments
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                   GITHUB ANALYTICS                        -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:38BDF8&height=115&section=header&text=📊%20GitHub%20Analytics&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+
+<p align="center">
+  <i>Consistency, experimentation, and continuous improvement.</i>
+</p>
+
+<br>
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Swarup272006&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup272006&layout=compact&hide_border=true&theme=transparent&langs_count=8"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Swarup272006&theme=transparent&hide_border=true"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swarup272006&bg_color=00000000&color=2563EB&line=38BDF8&point=1D4ED8&area=true&hide_border=true" width="95%"/>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION SNAKE                       -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:1E3A8A&height=105&section=header&text=🐍%20Contribution%20Journey&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Swarup272006/Swarup272006/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+<p align="center">
+  <i>Every contribution represents another step forward.</i>
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                       HIGHLIGHTS                           -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:38BDF8&height=110&section=header&text=✨%20Highlights&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI Builder**
+
+Building practical AI/ML applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Project Driven**
+
+Learning through real implementation
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**DSA**
+
+Consistently improving problem solving
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌱
+
+**Always Learning**
+
+Exploring new technologies and ideas
 
 </td>
 
@@ -278,85 +504,141 @@ Loan Default Prediction using Machine Learning.
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=120&section=header&text=✨%20Highlights&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+> 🧠 **My approach:** Learn → Build → Break → Debug → Improve → Repeat.
 
-<div align="center">
+---
 
-| 🚀 Highlights |
-|:--------------|
-| 🤖 Building AI-powered applications to solve real-world problems |
-| 💻 Consistently improving Data Structures & Algorithms |
-| 🌱 Exploring Machine Learning, Deep Learning & Generative AI |
-| 🏆 Active participant in innovation challenges and hackathons |
-| 📚 Passionate about continuous learning and open-source development |
+<!-- ========================================================= -->
+<!--                    ACHIEVEMENTS                           -->
+<!-- ========================================================= -->
 
-</div>
+<!--
+Add verified hackathon achievements here when they happen.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+Examples:
 
-<!-- ===================================================== -->
-<!--              CONNECT WITH ME                          -->
-<!-- ===================================================== -->
+🥇 Winner — XYZ Hackathon
+🏆 Top 10 — XYZ AI Challenge
+⭐ Finalist — XYZ Innovation Challenge
+🎯 Qualified for Round 3 — XYZ Hackathon
+-->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=120&section=header&text=📫%20Let's%20Connect&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=100&section=header&text=🏆%20Achievements&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
+
+<p align="center">
+  <i>Building the achievements section one milestone at a time.</i>
+</p>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/swarup-katkar-1a9b3329">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+🚀 <b>AI & ML Project Builder</b> &nbsp; • &nbsp;
+💻 <b>DSA Learner</b> &nbsp; • &nbsp;
+🏆 <b>Hackathon Participant</b>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                     CURRENT MISSION                        -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:1E3A8A&height=110&section=header&text=🎯%20Current%20Mission&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+
+<p align="center">
+
+<table align="center">
+
+<tr>
+<td>🤖</td>
+<td>Strengthen Machine Learning & Deep Learning fundamentals</td>
+</tr>
+
+<tr>
+<td>💻</td>
+<td>Become stronger at Data Structures & Algorithms</td>
+</tr>
+
+<tr>
+<td>🌐</td>
+<td>Learn and build with Full-Stack Development</td>
+</tr>
+
+<tr>
+<td>🚀</td>
+<td>Build more production-oriented AI applications</td>
+</tr>
+
+<tr>
+<td>🌱</td>
+<td>Explore Generative AI and modern AI technologies</td>
+</tr>
+
+<tr>
+<td>🏆</td>
+<td>Turn hackathon participation into meaningful achievements</td>
+</tr>
+
+</table>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                    CONNECT WITH ME                         -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:38BDF8&height=115&section=header&text=📫%20Let's%20Connect&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/swarup-katkar-1a9ba3329">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/swarup272006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Swarup272006">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/SK_World_27/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/swarupkatkar">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
 <a href="mailto:swarupkatkar07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 <br>
 
-<!-- ===================================================== -->
-<!--                2026 GOALS                             -->
-<!-- ===================================================== -->
+<p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=120&section=header&text=🎯%20Current%20Goals&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
-
-- 🚀 Build impactful AI-powered applications
-- 🤖 Strengthen Machine Learning & Deep Learning fundamentals
-- 💻 Improve problem-solving through DSA
-- 🌐 Learn modern Full-Stack Development
-- 🏆 Perform well in hackathons and coding competitions
-- 🌱 Contribute to Open Source
+<b>Interested in AI, Machine Learning, hackathons, or building something useful?</b>
 
 <br>
 
-<!-- ===================================================== -->
-<!--                    THANK YOU                          -->
-<!-- ===================================================== -->
+Let's connect, collaborate, and build. 🚀
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                       FINAL MESSAGE                        -->
+<!-- ========================================================= -->
 
 <h2 align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+Build. Learn. Improve. Repeat. 🤖
 
 </h2>
 
 <p align="center">
-
-If you like my work, feel free to explore my repositories and connect with me.
-
+  <i>Currently building my skills one project at a time.</i>
 </p>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:38BDF8&height=150&section=footer&animation=fadeIn"/>
