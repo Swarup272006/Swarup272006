@@ -408,30 +408,50 @@ Computer vision project focused on detecting and classifying human actions from 
 
 <br>
 
+<!-- ========================================================= -->
+<!--                    CONTRIBUTION STREAK                    -->
+<!-- ========================================================= -->
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Swarup272006&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup272006&layout=compact&hide_border=true&theme=transparent&langs_count=8"/>
-
+  <a href="https://github.com/Swarup272006">
+    <img
+      src="https://streak-stats.demolab.com/?user=Swarup272006&theme=transparent&hide_border=true&timezone=Asia%2FKolkata"
+      alt="Swarup Katkar GitHub Contribution Streak"
+    />
+  </a>
 </p>
 
 <p align="center">
+  <i>Streak calculation is aligned to Asia/Kolkata (IST).</i>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Swarup272006&theme=transparent&hide_border=true"/>
+<br>
+
+<!-- ========================================================= -->
+<!--                    GITHUB PROFILE                         -->
+<!-- ========================================================= -->
+
+<p align="center">
+
+<a href="https://github.com/Swarup272006">
+  <img src="https://img.shields.io/badge/View%20GitHub%20Profile-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Swarup272006?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 <br>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swarup272006&bg_color=00000000&color=2563EB&line=38BDF8&point=1D4ED8&area=true&hide_border=true" width="95%"/>
-
+  <b>📈 For the most accurate contribution activity, check the native GitHub contribution graph on my profile.</b>
 </p>
 
 ---
-
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION SNAKE                       -->
 <!-- ========================================================= -->
@@ -439,7 +459,19 @@ Computer vision project focused on detecting and classifying human actions from 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:1E3A8A&height=105&section=header&text=🐍%20Contribution%20Journey&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Swarup272006/Swarup272006/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Swarup272006/Swarup272006/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Swarup272006/Swarup272006/output/github-contribution-grid-snake.svg">
+
+  <img src="https://raw.githubusercontent.com/Swarup272006/Swarup272006/output/github-contribution-grid-snake.svg"
+       alt="GitHub Contribution Snake"
+       width="100%">
+</picture>
+
 </p>
 
 <p align="center">
